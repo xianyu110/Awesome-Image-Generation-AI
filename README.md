@@ -32,6 +32,8 @@
 
 This repository tracks notable **SaaS platforms** and **open-source projects** building **AI image generation tools**. 🎨 Whether you are looking for professional creative suites or local, self-hosted solutions, this list covers everything from prompt-to-image to advanced control techniques like LoRAs and ControlNet. 🚀
 
+Featured browser workflow: [GPT Image 2](https://gptimage2.asia/) for marketing visuals, ecommerce assets, social posts, and branded content.
+
 **Keywords**: *AI Image Generator, Text to Image, Stable Diffusion, Flux.1, Midjourney Alternatives, Open Source AI Art, Generative AI Tools, Image-to-Image, AI Art Ecosystem.*
 
 ---
